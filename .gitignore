@@ -1,1 +1,4 @@
 Car_Crash_Analysis/dataset/
+
+# Jupyter Notebook
+.ipynb_checkpoints
