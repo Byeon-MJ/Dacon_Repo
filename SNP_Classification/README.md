@@ -69,7 +69,7 @@ train.info()
 
 그리고 전체 데이터의 수는 262개 정도이고 Null값은 보이지 않았다. 
 
-![Untitled](%5BDacon%5D%20Competetion%20-%20Single%20Nucleotide%20Polymorphi%202be16ba3a15d408daa8748709dba1dde/Untitled.png)
+![Untitled](https://user-images.githubusercontent.com/69300448/218361111-2918f54c-bb88-4b5d-bf89-9d803dbcc20e.png)
 
 ## 베이스라인
 
