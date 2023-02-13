@@ -111,7 +111,7 @@ train.drop(['father', 'mother', 'gender'], axis=1, inplace=True)
 test.drop(['father', 'mother', 'gender'], axis=1, inplace=True)
 ```
 
-![Untitled](%5BDacon%5D%20Competetion%20-%20Single%20Nucleotide%20Polymorphi%202be16ba3a15d408daa8748709dba1dde/Untitled%201.png)
+![Untitled 1](https://user-images.githubusercontent.com/69300448/218361786-9e99398b-e399-4276-8a80-7c7a75dd9856.png)
 
 ### 2. Label Encoding
 
@@ -137,7 +137,7 @@ for col in train_x.columns:
 	train_x.head()
 ```
 
-![Untitled](%5BDacon%5D%20Competetion%20-%20Single%20Nucleotide%20Polymorphi%202be16ba3a15d408daa8748709dba1dde/Untitled%202.png)
+![Untitled 2](https://user-images.githubusercontent.com/69300448/218361806-3a43881b-ebbb-4d95-9488-1de864027ebe.png)
 
 ## 모델링 & 하이퍼 파라미터 튜닝
 
