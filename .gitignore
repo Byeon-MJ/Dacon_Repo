@@ -1,5 +1,5 @@
-Car_Crash_Analysis/train/
-Car_Crash_Analysis/test/
+dataset/
+submit/
 
 # Jupyter Notebook
 .ipynb_checkpoints
