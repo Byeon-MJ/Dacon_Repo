@@ -1,4 +1,4 @@
-# [Dacon] Competetion - Single Nucleotide Polymorphism Classification(+ reveiw)
+# Competetion - Single Nucleotide Polymorphism Classification(+ reveiw)
 
 ## 후기
 
